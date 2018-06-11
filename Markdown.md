@@ -32,8 +32,8 @@ alert(s);
 |item4   | item5 |  item6  |
 |item7   |item8  |  item9 |
 
-**Bold text**
-*Italicized text*
-~~Strikethrough text~~
+**Bold text** </br>
+*Italicized text* </br>
+~~Strikethrough text~~ 
 
 ---
