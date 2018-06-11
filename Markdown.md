@@ -25,3 +25,8 @@ alert(s);
  1. Item2
  3. Item3
  4. Item4
+
+| H1     | H2        | H3|
+| item1      | item1    | item1 |
+|item1       | item1      |  item1  |
+|item1       |item1      |  item1 |
