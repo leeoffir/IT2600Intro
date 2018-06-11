@@ -16,4 +16,7 @@ alert(s);
 > Blockquotes are very fun
 > This is the second line!
 
-* Item1 * Item2 - Item3 - Item4
+* Item1 
+* Item2 
+* Item3 
+* Item4
