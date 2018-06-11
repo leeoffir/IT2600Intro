@@ -28,6 +28,6 @@ alert(s);
 
 | H1     | H2    | H3|
 |-------|--------|------|
-|item1  | item1 | item1 |
-|item1   | item1 |  item1  |
-|item1   |item1  |  item1 |
+|item1  | item2 | item3 |
+|item4   | item5 |  item6  |
+|item7   |item8  |  item9 |
