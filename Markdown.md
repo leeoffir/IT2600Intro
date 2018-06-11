@@ -2,4 +2,4 @@
 #### This is Lee's Markdown Intro!
 
 [Markdown Cheatsheat](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)</br>
-[ReadMe]()
+[ReadMe](https://github.com/leeoffir/IT2600Intro/blob/master/README.md)
