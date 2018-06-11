@@ -27,6 +27,7 @@ alert(s);
  4. Item4
 
 | H1     | H2    | H3|
+|-------|--------|------|
 |item1  | item1 | item1 |
 |item1   | item1 |  item1  |
 |item1   |item1  |  item1 |
